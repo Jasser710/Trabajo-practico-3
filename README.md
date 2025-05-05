@@ -51,11 +51,11 @@ http://127.0.0.1:8000/docs
 
 ### 1. Crear la imagen
 
-docker build -t api-usuarios .
+docker build -t jasserpalacios/trabajo-practico-3 .
 
 ### 2. Ejecutar el contenedor
 
-docker run -p 8000:8000 api-usuarios
+docker run -p 8000:8000 jasserpalacios/trabajo-practico-3
 
 Luego abrir en el navegador:
 
