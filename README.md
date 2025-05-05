@@ -65,8 +65,8 @@ http://localhost:8000/docs
 
 La imagen está disponible en DockerHub:
 
-[[https://hub.docker.com/r/Jasser710/api-usuarios](https://hub.docker.com/r/jasserpalacios/trabajo-practico-3)](https://hub.docker.com/r/jasserpalacios/trabajo-practico-3
-)
+https://hub.docker.com/r/jasserpalacios/trabajo-practico-3
+
 
 ## ✍️ Autor
 
